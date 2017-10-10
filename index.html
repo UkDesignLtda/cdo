@@ -61,7 +61,7 @@ and open the template in the editor.
         <script>
             $.get("https://ipinfo.io", function (response) {
                 function changePage(destino) {
-                    setTimeout(window.location.pathname = destino.toString(), 1000);
+                    setTimeout(window.location.pathname = window.location.pathname + destino.toString(), 1000);
                 }
                 console.log(response.city, response.country);
                 var paises = ['BR', 'PT'];
