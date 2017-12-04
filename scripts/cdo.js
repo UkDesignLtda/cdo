@@ -13,4 +13,3 @@ $('#index-slider').slidesjs({
     }
 });
 
-
