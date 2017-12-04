@@ -46,13 +46,13 @@
         <div class="row no-gutters">
             <nav class="menu-vertical">
                 <ul class="list-unstyled menu-principal">
-                    <li class=""><a href="o-escritorio.html">O ESCRITÓRIO</a></li>
-                    <li class=""><a href="tradicao.html">TRADIÇÃO</a></li>
-                    <li class=""><a href="area-de-atuacao.html">ÁREA DE ATUAÇÃO</a></li>
-                    <li class=""><a href="advogados.html">ADVOGADOS</a></li>
-                    <li class=""><a href="noticias.html">NOTÍCIAS</a></li>
-                    <li class=""><a href="carreira.html">CARREIRA</a></li>
-                    <li class=""><a href="contato.html">CONTATO</a></li>
+                    <li class=""><a href="o-escritorio.php">O ESCRITÓRIO</a></li>
+                    <li class=""><a href="tradicao.php">TRADIÇÃO</a></li>
+                    <li class=""><a href="area-de-atuacao.php">ÁREA DE ATUAÇÃO</a></li>
+                    <li class=""><a href="advogados.php">ADVOGADOS</a></li>
+                    <li class=""><a href="noticias.php">NOTÍCIAS</a></li>
+                    <li class=""><a href="carreira.php">CARREIRA</a></li>
+                    <li class=""><a href="contato.php">CONTATO</a></li>
                 </ul>
             </nav>
             <div class="slider col" id="index-slider">
