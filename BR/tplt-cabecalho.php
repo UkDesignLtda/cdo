@@ -48,7 +48,7 @@
                 <ul class="list-unstyled menu-principal">
                     <li class=""><a href="o-escritorio.html">O ESCRITÓRIO</a></li>
                     <li class=""><a href="tradicao.html">TRADIÇÃO</a></li>
-                    <li class=""><a href="area-de-atuacao.html">ÁREAS DE ATUAÇÃO</a></li>
+                    <li class=""><a href="area-de-atuacao.html">ÁREA DE ATUAÇÃO</a></li>
                     <li class=""><a href="advogados.html">ADVOGADOS</a></li>
                     <li class=""><a href="noticias.html">NOTÍCIAS</a></li>
                     <li class=""><a href="carreira.html">CARREIRA</a></li>
