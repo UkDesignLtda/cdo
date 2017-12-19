@@ -1,0 +1,131 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 04/10/2017, 11:44:09
+    Author     : Uk Design Ltda.
+*/
+
+
+.home {
+
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
+}
+dt {
+    font-weight: 100;
+    font-family: "Open sans", sans-serif;
+}
+.barra-localizacao {
+    background: #2e2e36;
+    color: #fff;
+    height: 29px;
+    line-height: 29px;
+}
+.lingua-opcao {
+
+}
+.lingua-opcao a {
+    color: #aaa;
+    text-decoration: none;
+    font-weight: normal;
+}
+.lingua a::after,
+.nav-mapa-site li::after {
+    content: " | ";
+}
+.lingua a:last-child::after,
+.nav-mapa-site li:last-child::after {
+    content: "";
+}
+
+.lingua-opcao.marcada a {
+    color: #fff;
+    -webkit-user-select: none;
+}
+
+.lingua-opcao a:hover {
+    color: #fff;
+    transition-duration: .5s;
+}
+
+.barra-topo {
+    background: #792121;
+    height: 101px;
+    color: #fff;
+}
+
+.barra-menu-slider {
+    position: relative;
+    height: 437px;
+}
+
+.menu-vertical {
+    display: block;
+    position: absolute;
+    z-index: 900;
+    background: rgba( 0, 0, 0, .85 );
+    width: 245px;
+    margin-left: 15px;
+    padding-top: 1px;
+
+}
+.coluna-auxiliar {
+    display: block;
+    background: rgba( 232, 236, 235, 1 );
+    width: 435px;
+    padding-top: 1px;
+}
+.menu-principal {
+    padding-top: 46px;
+}
+.menu-principal li {
+    padding-top: 13px;
+    padding-bottom: 13px;
+    margin-left: 50px;
+    border-bottom: 1px solid #5c5c5c;
+}
+.menu-principal li a {
+    color: #e2d0b8;
+    font-family: "Roboto", sans-serif;
+    text-decoration: none;
+}
+.menu-principal li a:hover {
+    color: #fff;
+    transition-duration: .5s;
+}
+.barra-menu-slider {
+    border-top: 4px solid #fff;
+    border-bottom: 50px solid #2e2e36;
+    margin-bottom: 4px;
+}
+footer {
+    background: #5c5c5c;
+    height: 219px;
+    color: #fff;
+    padding-top: 1px;
+}
+.nav-horizontal {
+    width: 750px;
+    margin: 0px auto;
+}
+.nav-mapa-site {
+    margin-top: 79px;
+    margin-bottom: 40px;
+}
+.nav-horizontal li {
+    display: inline-block;
+}
+
+.linha-do-tempo hr{
+    border-top-color: #808483
+}
+.slider {
+    display: none;
+}
+.logo-cdo{
+    position: absolute;
+}

@@ -16,7 +16,7 @@
         </footer>
         <!-- JS train on the go -->
         <script src="../scripts/jquery-3.2.1.min.js" type="text/javascript"></script>
-        <script src='../scripts/popper.js' type="text/javascript"></script>
+        <script src="../scripts/popper.js" type="text/javascript"></script>
         <script src="../scripts/bootstrap.min.js" type="text/javascript"></script>
         <script src="../scripts/jquery.slides.min.js" type="text/javascript"></script>
 

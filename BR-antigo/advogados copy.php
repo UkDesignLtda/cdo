@@ -1,4 +1,9 @@
 <!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
 <html>
 <head lang="pt-br">
     <title>Cândido de Oliveira Advogados - Desde 1899</title>
@@ -16,6 +21,32 @@
 
 <?php require 'tplt-cabecalho.php'; ?>
 
+    <section class="barra-menu-slider container">
+        <div class="row no-gutters">
+            <nav class="menu-vertical">
+                <ul class="list-unstyled menu-principal">
+                    <li class=""><a href="o-escritorio.php">O ESCRITÓRIO</a></li>
+                    <li class=""><a href="tradicao.php">TRADIÇÃO</a></li>
+                    <li class=""><a href="area-de-atuacao.php">ÁREA DE ATUAÇÃO</a></li>
+                    <li class=""><a href="advogados.php">ADVOGADOS</a></li>
+                    <li class=""><a href="noticias.php">NOTÍCIAS</a></li>
+                    <li class=""><a href="carreira.php">CARREIRA</a></li>
+                    <li class=""><a href="contato.php">CONTATO</a></li>
+                </ul>
+            </nav>
+            <div class="slider col" id="index-slider">
+                <img src="../images/slide-advogados-pb.png"/>
+                <img src="../images/slide-advogados-pb.png"/>
+                <img src="../images/slide-advogados-pb.png"/>
+            </div>
+            <div class="row">
+                <!-- Controles do slider -->
+                <div class="col-md-6"><span class="slidesjs-previous slidesjs-navigation glyphicon glyphicon-chevron-left"></span></div>
+                <div class="col-md-6 text-right"><span class="slidesjs-next slidesjs-navigation glyphicon glyphicon-chevron-right "></span></div>
+            </div>
+        </div>
+    </section><!-- lembrar da barra verde no final dessa seção -->
+    
 <section class="conteudo-da-pagina">
     <div class="container-fluid">
         <div class="row no-gutters">

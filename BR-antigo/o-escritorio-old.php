@@ -42,8 +42,10 @@ and open the template in the editor.
 
             <section class="container-fluid barra-topo">
                 <div class="row">
+<!--
                     <div class="container text-right">
                         <div class="row">
+-->
                             <div class="logo-cdo"></div>
                             <div class="col-md-3 col-md-offset-9" style="padding:0">
                                 <form class="navbar-form" role="search">
@@ -55,8 +57,10 @@ and open the template in the editor.
                                     </div>
                                 </form>
                             </div>
+<!--
                         </div>
                     </div>
+-->
                 </div>
             </section>
 

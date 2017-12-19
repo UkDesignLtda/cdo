@@ -25,16 +25,14 @@
             <div class="container text-right">
                 <div class="row no-gutters">
                     <div class="col-md-1 logo-cdo">
-                        <img class='img-responsive' src='../images/logo-candido-de-oliveira-advogados.png'/>
+                        <img class='img-responsive' style="position: absolute; left: 300px; top: 17px; z-index: 2000;"src='../images/logo-candido-de-oliveira-advogados.png'/>
                     </div>
                     <div class="col-md-3 ml-auto align-items-center">
                         <form class="navbar-form" role="search">
                             <div class="input-group add-on">
-                                <input class="form-control" placeholder="Buscar" name="srch-term" id="srch-term"
-                                       type="text">
+                                <input class="form-control" placeholder="Buscar" name="srch-term" id="srch-term" type="text">
                                 <div class="input-group-btn">
-                                    <button class="btn btn-default" type="submit"><i
-                                                class="glyphicon glyphicon-search"></i></button>
+                                    <button class="btn btn-default" type="submit"><i class="glyphicon glyphicon-search"></i></button>
                                 </div>
                             </div>
                         </form>
@@ -44,6 +42,7 @@
         </div>
     </section>
 
+<!--
     <section class="barra-menu-slider container">
         <div class="row no-gutters">
             <nav class="menu-vertical">
@@ -58,21 +57,17 @@
                 </ul>
             </nav>
             <div class="slider col" id="index-slider">
-                <img src="http://lorempixel.com/1080/427/business/1"/>
-                <img src="http://lorempixel.com/1080/427/business/2"/>
-                <img src="http://lorempixel.com/1080/427/business/3"/>
-                <img src="http://lorempixel.com/1080/427/business/4"/>
-                <img src="http://lorempixel.com/1080/427/business/5"/>
+                <img src="../images/slide-advogados-pb.png"/>
             </div>
             <div class="row">
                 <!-- Controles do slider -->
-                <div class="col-md-6"><span
-                            class="slidesjs-previous slidesjs-navigation glyphicon glyphicon-chevron-left"></span></div>
-                <div class="col-md-6 text-right"><span
-                            class="slidesjs-next slidesjs-navigation glyphicon glyphicon-chevron-right "></span></div>
+<!--
+                <div class="col-md-6"><span class="slidesjs-previous slidesjs-navigation glyphicon glyphicon-chevron-left"></span></div>
+                <div class="col-md-6 text-right"><span class="slidesjs-next slidesjs-navigation glyphicon glyphicon-chevron-right "></span></div>
             </div>
         </div>
-    </section><!-- lembrar da barra verde no final dessa seção -->
+-->
+<!--    </section>--><!-- lembrar da barra verde no final dessa seção -->
 
 </header>
 <?php
