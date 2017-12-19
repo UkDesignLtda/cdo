@@ -30,9 +30,11 @@
                     <div class="col-md-3 ml-auto align-items-center">
                         <form class="navbar-form" role="search">
                             <div class="input-group add-on">
-                                <input class="form-control" placeholder="Buscar" name="srch-term" id="srch-term" type="text">
+                                <input class="form-control" placeholder="Buscar" name="srch-term" id="srch-term"
+                                       type="text">
                                 <div class="input-group-btn">
-                                    <button class="btn btn-default" type="submit"><i class="glyphicon glyphicon-search"></i></button>
+                                    <button class="btn btn-default" type="submit"><i
+                                                class="glyphicon glyphicon-search"></i></button>
                                 </div>
                             </div>
                         </form>
@@ -64,8 +66,10 @@
             </div>
             <div class="row">
                 <!-- Controles do slider -->
-                <div class="col-md-6"><span class="slidesjs-previous slidesjs-navigation glyphicon glyphicon-chevron-left"></span></div>
-                <div class="col-md-6 text-right"><span class="slidesjs-next slidesjs-navigation glyphicon glyphicon-chevron-right "></span></div>
+                <div class="col-md-6"><span
+                            class="slidesjs-previous slidesjs-navigation glyphicon glyphicon-chevron-left"></span></div>
+                <div class="col-md-6 text-right"><span
+                            class="slidesjs-next slidesjs-navigation glyphicon glyphicon-chevron-right "></span></div>
             </div>
         </div>
     </section><!-- lembrar da barra verde no final dessa seção -->
